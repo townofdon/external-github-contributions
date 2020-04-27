@@ -1,2 +1,2 @@
 echo "itbya"
-echo "inylx"
+echo "kenpu"
